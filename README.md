@@ -13,5 +13,6 @@ This repo is mainly used to collect issues encountered in using「Grape for GitH
 
 - Email: derekcoder@gmail.com
 - Telegram: https://t.me/GrapeforGitHub
+- QQ Group: 682169832
 - Weibo: [@derekcoder](https://weibo.com/u/6155322764)
 - Twitter: [@derekcoder_](https://twitter.com/derekcoder_)
