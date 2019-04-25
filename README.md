@@ -1,4 +1,4 @@
-# Grape for GitHub
+# Coderx for GitHub
 
 This repo is mainly used to collect issues encountered in using Coderx for GitHub.
 
