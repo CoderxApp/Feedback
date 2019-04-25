@@ -1,6 +1,6 @@
 # Grape for GitHub
 
-This repo is mainly used to collect issues encountered in using「Grape for GitHub」.
+This repo is mainly used to collect issues encountered in using Coderx for GitHub.
 
 [![AppStore](https://github.com/GrapeforGitHub/Feedback/blob/master/Resources/Download_on_the_App_Store.svg)](https://itunes.apple.com/app/apple-store/id1371929193?mt=8)
 
